@@ -19,8 +19,8 @@ Filename | Description
 [03-Migration.md](</labs/03-Migration.md>) | 
 [04-Bicep.md](</labs/04-Bicep.md>) | 
 [05-CICD.md](</labs/05-CICD.md>) | 
-[06-APIM.md](</labs/06-APIM.md>) | 
-[07-Diagram.md](</labs/07-Diagram.md>) | 
+[06-API.md](</labs/06-API.md>) | 
+[07-Documentation.md](</labs/07-Documentation.md>) | 
 
 
 ## FAQ 
