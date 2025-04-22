@@ -1,4 +1,4 @@
-# Exercise 3: Migrating JavaScript to C# with GitHub Copilot
+# Exercise 3 - Migration
 
 ## Scenario
 

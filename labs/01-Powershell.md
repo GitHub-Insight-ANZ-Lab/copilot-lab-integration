@@ -1,8 +1,8 @@
-# Exercise 1: Automating File Renaming with GitHub Copilot
+# Exercise 1 - Powershell
 
 ## Scenario
 
-You are working with a large number of data dump files named `datadump-*.dat` in a directory. To better organize these files, you need to rename each file to include the current date in its filename, e.g., `datadump_2025-04-17.dat`.
+You are working on processing data dump files named `datadump-*.dat` in a directory. To better organize these files, you need to rename each file to include the current date in its filename, e.g., `datadump_2025-04-17.dat`.
 
 ## Goal
 
@@ -10,27 +10,30 @@ Use GitHub Copilot to assist in writing a PowerShell script that automates the r
 
 ## Tasks
 
-1. **Set Up the Environment**  
+### Exercise 1: Set Up the Environment
 
-   - Sample `datadump-xx.dat` are in the `labs\lab01\` folder.
+Sample `datadump-xx.dat` are in the `labs\lab01\` folder.
 
-2. **Write the Script**  
+### Exercise 2: Write the Script
 
-   - Use GitHub Copilot to generate a PowerShell script that:
+Use GitHub Copilot to generate a PowerShell script `rename.ps1` that:
 
-     - Iterates through all `datadump.dat` files in the directory.
-     - Appends the current date (in `YYYY-MM-DD` format) to each filename.
-     - Ensures no files are overwritten during the renaming process.
+- Iterates through all `datadump.dat` files in the directory.
+- Copy each file to a new file
+- Appends the current date (in `YYYY-MM-DD` format) to each filename.
 
-3. **Test the Script**  
-   - Run the script in your test directory and verify that all files are renamed correctly.
+### Exercise 3: Test the Script
 
-4. **Enhance the Script**  
-   - Modify the script to handle cases where files with the same name already exist (e.g., append a unique number to the filename).
+- Run the script in your `lab02` directory and verify that all files are renamed correctly.
+- If you are not sure how to run powershell script, ask copilot for help
 
-5. **Document the Process**  
-   - Add comments to your script to explain each step.
-   - Write a short summary of how GitHub Copilot helped you complete the task.
+### Exercise 4: Enhance the Script
+
+Modify the script to read the date from the first line of the file.
+
+### Exercise 5: Document the Process
+
+Use `inline chat` to ask copilot to add comments to your script to explain each step.
 
 ---------------
 [Previous](./00-GetStarted.md) | [Next](./02-Transformation.md)

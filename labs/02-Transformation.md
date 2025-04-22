@@ -1,4 +1,4 @@
-# Exercise 2: Transform CSV to JSON with GitHub Copilot
+# Exercise 2: Transformation
 
 In this exercise, you will use GitHub Copilot to assist in writing a Node.js program that transforms a CSV file (`product.csv`) into a JSON file. The program should respect the column data types, such as converting the `price` column to `integer`.
 
@@ -16,23 +16,28 @@ By the end of this exercise, you will:
 
 ## Tasks
 
-1. **Set up the environment**:
-   - Create a new Node.js project using `npm init`.
-   - Install necessary dependencies such as `csv-parser` or any other library for parsing CSV files.
+### Exercise 1: Set up the environment
 
-2. **Write the Node.js script**:
-   - Use GitHub Copilot to help you write a script that:
-     - Reads the `product.csv` file.
-     - Converts the data into JSON format.
-     - Ensures that the `price` column is parsed as an integer.
-     - Writes the output to a file named `product.json`.
+- Create a new node.js project using `npm init` inside `lab02` folder.
+- Install necessary dependencies or any other library for parsing CSV files.
 
-3. **Test the script**:
-   - Run the script to ensure it correctly transforms the CSV file into JSON.
-   - Verify that the `price` column is an integer in the output.
+### Exercise 2: Write the Node.js script
 
-4. **Bonus Task**:
-   - Add error handling to your script to manage cases where the CSV file is missing or contains invalid data.
+Use GitHub Copilot to help you write a script that:
+
+- Reads the `product.csv` file.
+- Converts the data into JSON format.
+- Ensures that the `price` column is parsed as an integer.
+- Writes the output to a file named `product.json`.
+
+### Exercise 3: Error Handling
+
+Add error handling to your script to manage cases where the CSV file is missing or contains invalid data.
+
+### Exercise 3: Test the script
+
+Run the script to ensure it correctly transforms the CSV file into JSON.
+Verify that the `price` column is an integer in the output.
 
 ---------------
 [Previous](./01-Powershell.md | [Next](./03-Migration.md)
