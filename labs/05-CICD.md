@@ -79,4 +79,4 @@ You can use the provided sample .NET Core application as a reference to help you
 - Use of GitHub Copilot to streamline the development process.
 
 ---------------
-[Previous](./05-CICD.md) | [Next](./06-APIM.md)
+[Previous](./04-Bicep.md) | [Next](./06-APIM.md)

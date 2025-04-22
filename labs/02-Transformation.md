@@ -35,4 +35,4 @@ By the end of this exercise, you will:
    - Add error handling to your script to manage cases where the CSV file is missing or contains invalid data.
 
 ---------------
-[Previous](./02-Transformation.md) | [Next](./03-Migration.md)
+[Previous](./01-Powershell.md | [Next](./03-Migration.md)

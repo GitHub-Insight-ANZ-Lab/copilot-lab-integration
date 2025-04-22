@@ -136,4 +136,4 @@ Update `main.bicep` to create the following resources:
 
 
 ---------------
-[Previous](./04-Bicep.md) | [Next](./05-CICD.md)
+[Previous](./03-Migration.md) | [Next](./05-CICD.md)

@@ -108,4 +108,4 @@ Optional: Customize the Swagger Documentation:
 - Add metadata like title, description, and version to the Swagger configuration in Program.cs.
 
 ---------------
-[Previous](./06-APIM.md) | [Next](./07-Diagram.md)
+[Previous](./05-CICD.md) | [Next](./07-Documentation.md)

@@ -40,4 +40,4 @@ By the end of this exercise, you will:
    - Refactor the C# code to improve readability and maintainability. Use GitHub Copilot to suggest improvements.
 
 ---------------
-[Previous](./03-Migration.md) | [Next](./04-Bicep.md)
+[Previous](./02-Transformation.md) | [Next](./04-Bicep.md)

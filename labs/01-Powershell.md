@@ -33,4 +33,4 @@ Use GitHub Copilot to assist in writing a PowerShell script that automates the r
    - Write a short summary of how GitHub Copilot helped you complete the task.
 
 ---------------
-[Previous](./01-Powershell.md) | [Next](./02-Transformation.md)
+[Previous](./00-GetStarted.md) | [Next](./02-Transformation.md)
