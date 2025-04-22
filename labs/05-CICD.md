@@ -74,4 +74,4 @@ The goal of this exercise is to use GitHub Actions workflow to build, test and d
 **Tip:** As you start typing: `- name: Build Docker image`, Copilot will generate the complete Docker build command `docker build -t my-app:latest .` and any necessary options.
 
 ---------------
-[Previous](./04-Bicep.md) | [Next](./06-APIM.md)
+[Previous](./04-Bicep.md) | [Next](./06-API.md)

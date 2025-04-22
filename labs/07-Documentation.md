@@ -15,19 +15,19 @@ In this lab we will use Copilot to generate markdown documentation for our exist
  
 ## Tasks
 
-## Exercise 1: Exploring an Existing Codebase
+### Step 1: Exploring an Existing Codebase
 
 In this lab we will use Copilot to explore and familiarise ourselves with a new codebase.
 
 You can try questions like `write a readme for lab07's solution`
 
-## Exercise 2: Improvements and Secure Coding Practices
+### Step 2: Improvements and Secure Coding Practices
 
 In this lab we will use Copilot to identify potential issues with the codebase and suggest improvements.
 
 You can try questions like `any suggestion to improve secure coding in lab07's solution`
 
-## Exercise 3: Documenting an Existing Solution
+### Step 3: Documenting an Existing Solution
 
 In this lab we will use Copilot to generate documentation for existing code which lacks comments or documentation.
 
@@ -37,7 +37,7 @@ In this lab we will use Copilot to generate documentation for existing code whic
 4. Navigate to the `DbContextExtensions.cs` file located in the `src/TodoItems/Extensions` folder.
 5. Use Copilot to update the incorrect documentation to match the extension method logic.
  
-## Exercise 4: Generating Markdown Documentation
+### Step 4: Generating Markdown Documentation
 
 In this lab we will use Copilot to generate markdown documentation for our existing .NET API solution. 
 
@@ -49,4 +49,4 @@ When new developers start working on an existing solution, one of the first task
 4. Use a combination of inline completions and inline chat to build out your `README.md` file. By the end this should have enough information for a new developer to get started with your solution.
 
 ---------------
-[Previous](./07-API.md)
+[Previous](./06-API.md)
