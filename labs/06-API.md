@@ -27,7 +27,7 @@ dotnet test
 
 ## Tasks
 
-### Exercise 1: Run the API
+### Step 1: Run the API
 
 For this exercise we will be adding a new endpoint to handle a simple GET request.
 
@@ -42,7 +42,7 @@ You can now run the application and then test it with curl.
 2. Test with curl: `curl -v "http://localhost:5163/"`
 3. If you are using GitHub `Codespaces`, replace localhost:5163 with actual `Codespaces` url.
 
-### Exercise 2: Write a Hello GET Request
+### Step 2: Write a Hello GET Request
 
 For this exercise we will be adding a new endpoint to handle a simple GET request.
 
@@ -66,7 +66,7 @@ You can now run the application and then test it with curl.
 2. Test with curl: `curl -v "http://localhost:5163/hello?key=world"`
 3. If you are using GitHub `Codespaces`, replace localhost:5163 with actual `Codespaces` url.
 
-### Exercise 3: Write a Test Case
+### Step 3: Write a Test Case
 
 There is an existing unit test under `MinimalAPI.Tests/IntegrationTests.cs`, run the below command to test it.
 
@@ -93,7 +93,7 @@ A total of 1 test files matched the specified pattern.
 Passed!  - Failed:     0, Passed:     3, Skipped:     0, Total:     3, Duration: 4 ms - MinimalAPI.Tests.dll (net8.0)
 ```
 
-### Exercise 4: Generate a Swagger Definition file
+### Step 4: Generate a Swagger Definition file
 
 In this exercise, you will generate a Swagger definition file for the `/hello` endpoint to document the API. Ask copilot for the steps to follow. It might include the following actions:
 

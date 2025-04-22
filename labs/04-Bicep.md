@@ -18,9 +18,9 @@ Learn how to use Bicep, with the assistance of GitHub Copilot, to build a cloud 
 
 ## Tasks
 
-Update `main.bicep` to create the following resources:
+Update `labs\lab04\main.bicep` file to create the following resources.
 
-### Exercise 1: Provision Log Analytics and Application Insights
+### Step 1: Provision Log Analytics and Application Insights
 
 Configure Azure Log Analytics and Application Insights for monitoring and logging.
 
@@ -30,7 +30,7 @@ Configure Azure Log Analytics and Application Insights for monitoring and loggin
 
 **Hint:** Type `resource logAnalyticsWorkspace` and `resource applicationInsights` and use Copilot to help with setting up the resources.
 
-### Exercise 2: Create an Azure Storage Account
+### Step 2: Create an Azure Storage Account
 
 Provision a storage account for storing static content, WebJobs, and logs.
 
@@ -39,7 +39,7 @@ Provision a storage account for storing static content, WebJobs, and logs.
 
 **Hint:** Start typing `resource storageAccount` and let Copilot assist with completing the resource configuration.
 
-### Exercise 3: Create an Azure Key Vault
+### Step 3: Create an Azure Key Vault
 
 Create an Azure Key Vault to store secrets.
 
@@ -53,7 +53,7 @@ Create an Azure Key Vault to store secrets.
 - Start typing `// keyVault with enable rbac authorization, purge protection and soft delete for 7 days` and let Copilot assist with completing the resource configuration.
 - Copilot might reference `tenantId` from a non-existent variable. Use Copilot to help troubleshoot the error.
 
-### Exercise 4: Create an Azure SQL Database with Bicep Module
+### Step 4: Create an Azure SQL Database with Bicep Module
 
 Set up a SQL Database resource using a Bicep module to allow for reusable infrastructure.
 
@@ -75,7 +75,7 @@ Set up a SQL Database resource using a Bicep module to allow for reusable infras
 - Use Copilot to assist with creating the SQL Server and Database resource blocks inside the module.
 - You can start with the resource block `resource sqlServer` and `resource sqlDatabase`, but the goal is to modularize these resources.
 
-### Exercise 5: Create parameters file for your environment
+### Step 5: Create parameters file for your environment
 
 Create a parameters file to store environment-specific values.
 

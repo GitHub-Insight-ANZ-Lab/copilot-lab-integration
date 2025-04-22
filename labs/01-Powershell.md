@@ -10,11 +10,11 @@ Use GitHub Copilot to assist in writing a PowerShell script that automates the r
 
 ## Tasks
 
-### Exercise 1: Set Up the Environment
+### Step 1: Set Up the Environment
 
 Sample `datadump-xx.dat` are in the `labs\lab01\` folder.
 
-### Exercise 2: Write the Script
+### Step 2: Write the Script
 
 Use GitHub Copilot to generate a PowerShell script `rename.ps1` that:
 
@@ -22,16 +22,16 @@ Use GitHub Copilot to generate a PowerShell script `rename.ps1` that:
 - Copy each file to a new file
 - Appends the current date (in `YYYY-MM-DD` format) to each filename.
 
-### Exercise 3: Test the Script
+### Step 3: Test the Script
 
 - Run the script in your `lab02` directory and verify that all files are renamed correctly.
 - If you are not sure how to run powershell script, ask copilot for help
 
-### Exercise 4: Enhance the Script
+### Step 4: Enhance the Script
 
 Modify the script to read the date from the first line of the file.
 
-### Exercise 5: Document the Process
+### Step 5: Document the Process
 
 Use `inline chat` to ask copilot to add comments to your script to explain each step.
 
