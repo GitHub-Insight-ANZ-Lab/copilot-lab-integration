@@ -15,6 +15,7 @@
         "github.copilot-chat",
         "github.copilot",
         "ms-python.python",
+		"ms-vscode.powershell",
         "ms-azuretools.vscode-bicep",
         "ms-azuretools.vscode-docker",
         "ms-dotnettools.csdevkit",
