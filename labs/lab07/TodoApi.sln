@@ -7,8 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoApi", "TodoApi\TodoApi.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoApi.Data", "TodoApi.Data\TodoApi.Data.csproj", "{6E72829D-95AC-4030-9D2E-DF3141BA4E1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoApi.Test", "TodoApi.Test\TodoApi.Test.csproj", "{69DB8BBC-E6C4-4FB8-9798-F768A760880F}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
