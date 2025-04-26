@@ -11,14 +11,14 @@ Inside the `labs` folder you will find a number of markdown files that contain t
 
 Exercise | Description
 --- | ---
-[00-GetStarted](</labs/00-GetStarted.md>) | 
-[01-Powershell](</labs/01-Powershell.md>) | 
-[02-Transformationd](</labs/02-Transformation.md>) | 
-[03-Migration](</labs/03-Migration.md>) | 
-[04-Bicep](</labs/04-Bicep.md>) | 
-[05-CI/CD](</labs/05-CICD.md>) | 
-[06-API](</labs/06-API.md>) | 
-[07-Documentation](</labs/07-Documentation.md>) | 
+[00-GetStarted](</labs/00-GetStarted.md>) | Setting up GitHub Copilot
+[01-Powershell](</labs/01-Powershell.md>) | Use Copilot to write a powershell script
+[02-Transformationd](</labs/02-Transformation.md>) | Use Copilot to write a Node.js program
+[03-Migration](</labs/03-Migration.md>) | Use Copilot to write a C# program
+[04-Bicep](</labs/04-Bicep.md>) | Use Copilot to enhance Bicep deployment
+[05-CI/CD](</labs/05-CICD.md>) | Use Copilot to write GitHub actions in yaml
+[06-API](</labs/06-API.md>) | Use Copilot to write API and swagger specification
+[07-Documentation](</labs/07-Documentation.md>) | Use Copilot to prepare documentations
 
 Enjoy your workshop!
 
