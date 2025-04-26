@@ -26,7 +26,8 @@ Configure Azure Log Analytics and Application Insights for monitoring and loggin
 
 - Add resources for an Azure Log Analytics workspace.
 - Add an Application Insights resource for tracking App Services and the Function App.
-   Run `az bicep lint --file main.bicep` to validate your Bicep file.
+
+Run `az bicep lint --file main.bicep` to validate your Bicep file.
 
 **Hint:** Type `resource logAnalyticsWorkspace` and `resource applicationInsights` and use Copilot to help with setting up the resources.
 

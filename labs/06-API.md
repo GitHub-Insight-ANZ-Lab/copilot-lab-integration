@@ -11,7 +11,6 @@ The `lab06\copilot-demo` folder contains the `MinimalAPI.sln` solution, with 2 p
 
 - `MinimalAPI` is a minimal WebAPI project created using `dotnet new webapi -minimal`
 - `MinimalAPI.Tests` is a minimal xUnit project created using `dotnet new xunit`
-- `Dockerfile` will be used to create a docker image for the project.
 
 To run the app open a terminal in the `lab06\copilot-demo` folder and run:
 

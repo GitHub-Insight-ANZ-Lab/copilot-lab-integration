@@ -1,1 +1,0 @@
-# Build a .NET 8 application image based on the official .NET 8 SDK image and run the application

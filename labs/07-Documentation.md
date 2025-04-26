@@ -23,7 +23,7 @@ You can try questions like `write a readme for lab07's solution`
 
 ### Step 2: Improvements and Secure Coding Practices
 
-In this lab we will use Copilot to identify potential issues with the codebase and suggest improvements.
+In this lab we will use Copilot to identify potential issues with the codebase and suggest improvements for `labs\lab07`'s ToDo project.
 
 You can try questions like `any suggestion to improve secure coding in lab07's solution`
 
@@ -41,12 +41,13 @@ In this lab we will use Copilot to generate documentation for existing code whic
 
 In this lab we will use Copilot to generate markdown documentation for our existing .NET API solution. 
 
-When new developers start working on an existing solution, one of the first tasks they face is cloning the solution, installing the required developer dependencies and running the solution locally. A well written README.md file is a great place to give an overview of a repository and how to get started.
-
-1. Create a new folder in the `labs\lab07` of the repository named `docs`, within this folder create a file names `README.md`.
+1. Create a new `README.md` file in the `labs\lab07` of the repo.
 2. Using Copilot Chat, find out what's a good structure for a `README.md` file.
 3. Using the `@workspace` agent, ask Copilot to generate the high level structure for your `README.md` file.
 4. Use a combination of inline completions and inline chat to build out your `README.md` file. By the end this should have enough information for a new developer to get started with your solution.
+
+
+Well done, you have completed all Integration labs!
 
 ---------------
 [Previous](./06-API.md)

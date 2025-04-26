@@ -20,7 +20,7 @@ The goal of this exercise is to use GitHub Actions workflow to build, test and d
 
 ### Step 2: Add Build and Test App Job
 
-- Modify your GitHub Actions workflow to include a job called `build_app` for building and testing the .NET Core application.
+- Modify your GitHub Actions workflow `labs\lab05\.github\workflows\pipeline.yaml` to include a job called `build_app` for building and testing the .NET Core application.
 
 **Tip:** In the workflow file, Copilot will suggest a few steps to build and test the .NET Core application.
 
